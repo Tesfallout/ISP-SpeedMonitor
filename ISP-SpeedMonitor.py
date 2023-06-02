@@ -1,5 +1,6 @@
 # Speed Monitor for providing reports on ISP up/down rates
 # Created 6/2/2023 by Tesfallout
+# Made and tested with Python 3.10.4
 
 
 import speedtest
